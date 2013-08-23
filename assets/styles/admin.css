@@ -1,0 +1,1 @@
+tr.lowtone.terms.background dt:after{content:":"}tr.lowtone.terms.background dd{margin:0}tr.lowtone.terms.background a.current{cursor:pointer;display:block;position:relative}tr.lowtone.terms.background a.current:after{content:"";display:block;position:absolute;top:0;left:0;right:0;bottom:0}tr.lowtone.terms.background a.current:hover:after{background-color:rgba(255,255,255,0.4)}
